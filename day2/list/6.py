@@ -1,0 +1,6 @@
+spain = ['barca', 'Real madrid', 'sevilla', 'Valencia', 'atletico']
+listnum = [23, 78, 45, 84, 10, 23, 45, 67]
+
+print("spain =", spain)
+spain.insert(4, 'zaragoza')
+print("spain =", spain)
